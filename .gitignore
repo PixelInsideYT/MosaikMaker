@@ -1,0 +1,12 @@
+/src/main/resources/bw/
+/src/main/resources/colorized/
+/src/main/resources/images/
+/src/main/resources/mosaikImages/
+/src/main/resources/avgCIELAB
+/src/main/resources/currentBase.jpg
+/src/main/resources/currentBaseSMOL.jpg
+/src/main/resources/otherBase.jpg
+/.gradle/
+/.idea/
+/build/
+/lowRes.png
